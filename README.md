@@ -1,1 +1,1 @@
-CligMe
+CliqMe
